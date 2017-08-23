@@ -5,7 +5,7 @@ Recently, I have heard a few people grumbling about how launch clamps add to you
 # Functionality:
 Launch clamps capable of transfering fuel to the vessel can do so on the launch pad. right click on the clamp and select "Fuel On" to begin fueling your vessel. 
 
-_This can be considered cheaty, but I'll tell you anyway. Draining the tanks in the VAB results in huge launch cost savings and fueling up on the launch pad is free._
+_This can be considered cheaty, but I'll tell you anyway. Draining the tanks in the VAB results in huge launch cost savings and fueling up on the launch pad is free, but its immersive in the fact that you have to sit and wait for you tanks to fill up._
 
 # This mod is compatible with:
 * Stock  launch clamps (duh)
