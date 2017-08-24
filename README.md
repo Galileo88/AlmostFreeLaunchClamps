@@ -15,6 +15,6 @@ _This can be considered cheaty, but I'll tell you anyway. Draining the tanks in 
 _If there are others that you want patched, you will jave to let me know_
 
 
- CC-BY-NC-SA
+ Public Domain
 
 
