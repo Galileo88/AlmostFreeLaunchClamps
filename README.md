@@ -8,11 +8,13 @@ Launch clamps capable of transfering fuel to the vessel can do so on the launch 
 _This can be considered cheaty, but I'll tell you anyway. Draining the tanks in the VAB results in huge launch cost savings and fueling up on the launch pad is free, but its immersive in the fact that you have to sit and wait for you tanks to fill up._
 
 # This mod is compatible with:
-* Stock  launch clamps (duh)
+* Stock launch clamps (duh)
 * FASA Launch Clamps
-* Bluedog Design Bureau (Once my pull request is merged) 
+* Bluedog Design Bureau
+* SpaceY Lifters Pack
+* Community Resource Pack
 
-_If there are others that you want patched, you will jave to let me know_
+_If there are others that you want patched, you will have to let me know_
 
 
  Public Domain
